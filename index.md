@@ -5,9 +5,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Basic Information
 
 **Xuan Shen**
-Undergraduate student in CCME, Peking Universty
-Major in Chemistry & International Politics (as a dual degree)
-Email：shenxuan-chem@stu.pku.edu.cn
+- Undergraduate student in CCME, Peking Universty
+- Major in Chemistry & International Politics (as a dual degree)
+- Email：shenxuan-chem@stu.pku.edu.cn
 
 ```markdown
 Syntax highlighted code block
