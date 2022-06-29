@@ -13,26 +13,14 @@ Here is a personal website only for programming study and self entertainment. I 
 - Major in Chemistry & International Politics (as a dual degree)
 - Email：shenxuan-chem@stu.pku.edu.cn
 
+### Sharp Remark 锐评 & Meme 梗图 (Maybe Monthly Update)
+Coming Soon!
 
+### Useful Information 学 习 资 料 (Aperiodically Update)
+Coming Soon!
 
-```markdown
-Syntax highlighted code block
+### Sharing/Diary
+Coming Soon!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-
